@@ -31,3 +31,4 @@ aircraft_hall\main.o: ../Core/Inc/gpio.h
 aircraft_hall\main.o: .\common\common_debug.h
 aircraft_hall\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 aircraft_hall\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+aircraft_hall\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

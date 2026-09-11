@@ -3,17 +3,17 @@
         {
             "name": "Aircraft_Hall",
             "includePath": [
-                "d:\\zfk\\尚硅谷嵌入式精品项目之四轴无人机\\FourAxisAircraft\\Aircraft_Hall\\Core\\Inc",
-                "d:\\zfk\\尚硅谷嵌入式精品项目之四轴无人机\\FourAxisAircraft\\Aircraft_Hall\\Drivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy",
-                "d:\\zfk\\尚硅谷嵌入式精品项目之四轴无人机\\FourAxisAircraft\\Aircraft_Hall\\Drivers\\STM32F1xx_HAL_Driver\\Inc",
-                "d:\\zfk\\尚硅谷嵌入式精品项目之四轴无人机\\FourAxisAircraft\\Aircraft_Hall\\Drivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include",
-                "d:\\zfk\\尚硅谷嵌入式精品项目之四轴无人机\\FourAxisAircraft\\Aircraft_Hall\\Drivers\\CMSIS\\Include",
-                "d:\\zfk\\尚硅谷嵌入式精品项目之四轴无人机\\FourAxisAircraft\\Aircraft_Hall\\MDK-ARM\\common",
+                "d:\\zfk\\尚硅谷嵌入式精品项目之四轴无人机\\FourAxisAircraft\\FourAxisAircraft\\Aircraft_Hall\\Core\\Inc",
+                "d:\\zfk\\尚硅谷嵌入式精品项目之四轴无人机\\FourAxisAircraft\\FourAxisAircraft\\Aircraft_Hall\\Drivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy",
+                "d:\\zfk\\尚硅谷嵌入式精品项目之四轴无人机\\FourAxisAircraft\\FourAxisAircraft\\Aircraft_Hall\\Drivers\\STM32F1xx_HAL_Driver\\Inc",
+                "d:\\zfk\\尚硅谷嵌入式精品项目之四轴无人机\\FourAxisAircraft\\FourAxisAircraft\\Aircraft_Hall\\Drivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include",
+                "d:\\zfk\\尚硅谷嵌入式精品项目之四轴无人机\\FourAxisAircraft\\FourAxisAircraft\\Aircraft_Hall\\Drivers\\CMSIS\\Include",
+                "d:\\zfk\\尚硅谷嵌入式精品项目之四轴无人机\\FourAxisAircraft\\FourAxisAircraft\\Aircraft_Hall\\MDK-ARM\\common",
                 "C:\\Keil_v5\\ARM\\ARMCC\\include",
                 "C:\\Keil_v5\\ARM\\ARMCC\\include\\rw",
-                "d:\\zfk\\尚硅谷嵌入式精品项目之四轴无人机\\FourAxisAircraft\\Aircraft_Hall\\MDK-ARM",
-                "d:\\zfk\\尚硅谷嵌入式精品项目之四轴无人机\\FourAxisAircraft\\Aircraft_Hall\\Core\\Src",
-                "d:\\zfk\\尚硅谷嵌入式精品项目之四轴无人机\\FourAxisAircraft\\Aircraft_Hall\\Drivers\\STM32F1xx_HAL_Driver\\Src"
+                "d:\\zfk\\尚硅谷嵌入式精品项目之四轴无人机\\FourAxisAircraft\\FourAxisAircraft\\Aircraft_Hall\\MDK-ARM",
+                "d:\\zfk\\尚硅谷嵌入式精品项目之四轴无人机\\FourAxisAircraft\\FourAxisAircraft\\Aircraft_Hall\\Core\\Src",
+                "d:\\zfk\\尚硅谷嵌入式精品项目之四轴无人机\\FourAxisAircraft\\FourAxisAircraft\\Aircraft_Hall\\Drivers\\STM32F1xx_HAL_Driver\\Src"
             ],
             "defines": [
                 "USE_HAL_DRIVER",
