@@ -1,0 +1,25 @@
+--cpu Cortex-M3
+"aircraft_hall\startup_stm32f103xb.o"
+"aircraft_hall\main.o"
+"aircraft_hall\gpio.o"
+"aircraft_hall\usart.o"
+"aircraft_hall\stm32f1xx_it.o"
+"aircraft_hall\stm32f1xx_hal_msp.o"
+"aircraft_hall\stm32f1xx_hal_gpio_ex.o"
+"aircraft_hall\stm32f1xx_hal_uart.o"
+"aircraft_hall\stm32f1xx_hal.o"
+"aircraft_hall\stm32f1xx_hal_rcc.o"
+"aircraft_hall\stm32f1xx_hal_rcc_ex.o"
+"aircraft_hall\stm32f1xx_hal_gpio.o"
+"aircraft_hall\stm32f1xx_hal_dma.o"
+"aircraft_hall\stm32f1xx_hal_cortex.o"
+"aircraft_hall\stm32f1xx_hal_pwr.o"
+"aircraft_hall\stm32f1xx_hal_flash.o"
+"aircraft_hall\stm32f1xx_hal_flash_ex.o"
+"aircraft_hall\stm32f1xx_hal_exti.o"
+"aircraft_hall\system_stm32f1xx.o"
+"aircraft_hall\common_debug.o"
+--library_type=microlib --strict --scatter "Aircraft_Hall\Aircraft_Hall.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "Aircraft_Hall.map" -o Aircraft_Hall\Aircraft_Hall.axf
