@@ -27,3 +27,12 @@ aircraft_hall\stm32f1xx_it.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_
 aircraft_hall\stm32f1xx_it.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
 aircraft_hall\stm32f1xx_it.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
 aircraft_hall\stm32f1xx_it.o: ../Core/Inc/stm32f1xx_it.h
+aircraft_hall\stm32f1xx_it.o: ./freeRTOS/include/FreeRTOS.h
+aircraft_hall\stm32f1xx_it.o: ./freeRTOS/FreeRTOSConfig.h
+aircraft_hall\stm32f1xx_it.o: ./freeRTOS/include/projdefs.h
+aircraft_hall\stm32f1xx_it.o: ./freeRTOS/include/portable.h
+aircraft_hall\stm32f1xx_it.o: ./freeRTOS/include/deprecated_definitions.h
+aircraft_hall\stm32f1xx_it.o: ./freeRTOS/portable/portmacro.h
+aircraft_hall\stm32f1xx_it.o: ./freeRTOS/include/mpu_wrappers.h
+aircraft_hall\stm32f1xx_it.o: ./freeRTOS/include/task.h
+aircraft_hall\stm32f1xx_it.o: ./freeRTOS/include/list.h

@@ -1,0 +1,12 @@
+aircraft_hall\list.o: freeRTOS\list.c
+aircraft_hall\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+aircraft_hall\list.o: ./freeRTOS/include/FreeRTOS.h
+aircraft_hall\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+aircraft_hall\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+aircraft_hall\list.o: ./freeRTOS/FreeRTOSConfig.h
+aircraft_hall\list.o: ./freeRTOS/include/projdefs.h
+aircraft_hall\list.o: ./freeRTOS/include/portable.h
+aircraft_hall\list.o: ./freeRTOS/include/deprecated_definitions.h
+aircraft_hall\list.o: ./freeRTOS/portable/portmacro.h
+aircraft_hall\list.o: ./freeRTOS/include/mpu_wrappers.h
+aircraft_hall\list.o: ./freeRTOS/include/list.h

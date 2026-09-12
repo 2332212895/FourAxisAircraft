@@ -1,5 +1,5 @@
 aircraft_hall\common_debug.o: common\common_debug.c
-aircraft_hall\common_debug.o: .\common\common_debug.h
+aircraft_hall\common_debug.o: ./common/common_debug.h
 aircraft_hall\common_debug.o: ../Core/Inc/usart.h
 aircraft_hall\common_debug.o: ../Core/Inc/main.h
 aircraft_hall\common_debug.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h

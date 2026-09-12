@@ -23,7 +23,11 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-#include<common_debug.h>
+//#include<common_debug.h>
+#include <APP_freeRTOS_Task.h>
+
+
+
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -98,6 +102,8 @@ int main(void)
   //使用重定向后的函数
   //printf("hello world  11111\r\n");
 
+  // 启动freeRTOS => 后续的代码都不再执行
+  App_freeRTOS_start();
 
 
   /* USER CODE END 2 */

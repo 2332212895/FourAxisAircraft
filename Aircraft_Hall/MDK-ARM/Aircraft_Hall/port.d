@@ -1,0 +1,12 @@
+aircraft_hall\port.o: freeRTOS\portable\port.c
+aircraft_hall\port.o: ./freeRTOS/include/FreeRTOS.h
+aircraft_hall\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+aircraft_hall\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+aircraft_hall\port.o: ./freeRTOS/FreeRTOSConfig.h
+aircraft_hall\port.o: ./freeRTOS/include/projdefs.h
+aircraft_hall\port.o: ./freeRTOS/include/portable.h
+aircraft_hall\port.o: ./freeRTOS/include/deprecated_definitions.h
+aircraft_hall\port.o: ./freeRTOS/portable/portmacro.h
+aircraft_hall\port.o: ./freeRTOS/include/mpu_wrappers.h
+aircraft_hall\port.o: ./freeRTOS/include/task.h
+aircraft_hall\port.o: ./freeRTOS/include/list.h
